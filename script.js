@@ -1,3 +1,5 @@
+alert("selamat datang!")
+
 const stackContainer = document.querySelector('.stack-container')
 const btnPush = document.querySelector('.btn-push')
 const btnPop = document.querySelector('.btn-pop')
